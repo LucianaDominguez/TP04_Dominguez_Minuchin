@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP04_Minuchin_Dominguez")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af10ab14bb7f16087c3a3f6cb621085c0ed64d0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17669d56d1cf26acc8aef2c4ade0ccb8ac7eca70")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP04_Minuchin_Dominguez")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP04_Minuchin_Dominguez")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

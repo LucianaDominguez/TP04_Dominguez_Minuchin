@@ -17,4 +17,13 @@ public class HomeController : Controller
     {
         return View();
     }
+
+    public IActionResult SelectPaquete()
+    {
+        ViewBag.Hoteles = ORTWorld.ListaHoteles;
+        ViewBag.Excursiones = ORTWorld.ListaExcursiones;
+        ViewBag.Aereos = ORTWorld.ListaAereos;
+        ViewBag.Destinos= ORTWorld.ListaDestinos;
+        return View();
+    }
 }
