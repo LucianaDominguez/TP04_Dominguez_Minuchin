@@ -15,6 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+         ViewBag.DicPaquetes = ORTWorld.Paquetes;
         return View();
     }
 
@@ -38,7 +39,7 @@ public class HomeController : Controller
         {
             Paquete nuevo = new Paquete(ORTWorld.ListaHoteles[Hotel-1],ORTWorld.ListaAereos[Aereo-1], ORTWorld.ListaExcursiones[Excursion-1]);
             ORTWorld.IngresarPaquete(ORTWorld.ListaDestinos[Destino-1], nuevo);
-            ViewBag.DicPaquetes = ORTWorld.Paquetes;
+            RedirectToAction("Index");
             return View(Index);
         }
         

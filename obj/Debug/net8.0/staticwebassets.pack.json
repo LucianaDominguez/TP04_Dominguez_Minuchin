@@ -1,0 +1,245 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Accor.jpg",
+      "PackagePath": "staticwebassets\\img\\Accor.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Air France.jpg",
+      "PackagePath": "staticwebassets\\img\\Air France.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Alitalia.jpg",
+      "PackagePath": "staticwebassets\\img\\Alitalia.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\American Airlines.jpg",
+      "PackagePath": "staticwebassets\\img\\American Airlines.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Atenas.jpg",
+      "PackagePath": "staticwebassets\\img\\Atenas.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\BTH.jpg",
+      "PackagePath": "staticwebassets\\img\\BTH.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Big Ben.jpg",
+      "PackagePath": "staticwebassets\\img\\Big Ben.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\British Airways.png",
+      "PackagePath": "staticwebassets\\img\\British Airways.png"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Brujas.jpg",
+      "PackagePath": "staticwebassets\\img\\Brujas.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Choice.jpg",
+      "PackagePath": "staticwebassets\\img\\Choice.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Coliseo.jpg",
+      "PackagePath": "staticwebassets\\img\\Coliseo.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Emirates.png",
+      "PackagePath": "staticwebassets\\img\\Emirates.png"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Empire State.jpg",
+      "PackagePath": "staticwebassets\\img\\Empire State.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Four Seasons.jpg",
+      "PackagePath": "staticwebassets\\img\\Four Seasons.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Hilton.jpg",
+      "PackagePath": "staticwebassets\\img\\Hilton.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\IHG.jpg",
+      "PackagePath": "staticwebassets\\img\\IHG.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Iberia.jpg",
+      "PackagePath": "staticwebassets\\img\\Iberia.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\InterContinental.jfif",
+      "PackagePath": "staticwebassets\\img\\InterContinental.jfif"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Lisboa.jpg",
+      "PackagePath": "staticwebassets\\img\\Lisboa.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Londres.jpg",
+      "PackagePath": "staticwebassets\\img\\Londres.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Lufthansa.jpg",
+      "PackagePath": "staticwebassets\\img\\Lufthansa.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Madrid.jpg",
+      "PackagePath": "staticwebassets\\img\\Madrid.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Mar Muerto.jpg",
+      "PackagePath": "staticwebassets\\img\\Mar Muerto.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Marriott.jpg",
+      "PackagePath": "staticwebassets\\img\\Marriott.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Munich.jpg",
+      "PackagePath": "staticwebassets\\img\\Munich.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Nueva York.jpg",
+      "PackagePath": "staticwebassets\\img\\Nueva York.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Palacio Real.jpg",
+      "PackagePath": "staticwebassets\\img\\Palacio Real.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Paris.jpeg",
+      "PackagePath": "staticwebassets\\img\\Paris.jpeg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Partenon.jpg",
+      "PackagePath": "staticwebassets\\img\\Partenon.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Paseo en Barco.jpg",
+      "PackagePath": "staticwebassets\\img\\Paseo en Barco.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Qatar Airways.png",
+      "PackagePath": "staticwebassets\\img\\Qatar Airways.png"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Ritz.jpg",
+      "PackagePath": "staticwebassets\\img\\Ritz.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Roma.jpg",
+      "PackagePath": "staticwebassets\\img\\Roma.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\RyanAir.jpg",
+      "PackagePath": "staticwebassets\\img\\RyanAir.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Sheraton.jpg",
+      "PackagePath": "staticwebassets\\img\\Sheraton.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Tel Aviv.jpg",
+      "PackagePath": "staticwebassets\\img\\Tel Aviv.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Torre Eiffel.png",
+      "PackagePath": "staticwebassets\\img\\Torre Eiffel.png"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Tour Museos.jpg",
+      "PackagePath": "staticwebassets\\img\\Tour Museos.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Tour en Tranvia.jpg",
+      "PackagePath": "staticwebassets\\img\\Tour en Tranvia.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Turkish Airlines.jpg",
+      "PackagePath": "staticwebassets\\img\\Turkish Airlines.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP04_Minuchin_Dominguez.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP04_Minuchin_Dominguez.props",
+      "PackagePath": "build\\TP04_Minuchin_Dominguez.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP04_Minuchin_Dominguez.props",
+      "PackagePath": "buildMultiTargeting\\TP04_Minuchin_Dominguez.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP04_Minuchin_Dominguez.props",
+      "PackagePath": "buildTransitive\\TP04_Minuchin_Dominguez.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
