@@ -1,0 +1,33 @@
+<h1>Arme su Paquete</h1>
+<form>
+@foreach(string item in ViewBag.Destinos)
+{
+    <img src="~/img/@item">
+}
+<p>Elija su Destino:</p>
+<input type = "number" min = 1> 
+
+@foreach(string item in ViewBag.Hoteles)
+{
+    <img src="~/img/@item">
+}
+<p>Elija su Hotel:</p>
+<input type = "number" min = 1> 
+
+@foreach(string item in ViewBag.Aereos)
+{
+    <img src="~/img/@item">
+}
+<p>Elija su Aereo:</p>
+<input type = "number" min = 1> 
+
+@foreach(string item in ViewBag.Excursiones)
+{
+    <img src="~/img/@item">
+}
+<p>Elija su Excursión:</p>
+<input type = "number" min = 1> 
+
+
+<input type = "submit">
+</form>

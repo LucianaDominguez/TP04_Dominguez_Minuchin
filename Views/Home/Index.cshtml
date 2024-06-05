@@ -7,6 +7,20 @@
     <p>Empresa numero uno en viajes</p>
 </div> 
 <div>  
-<link href = "HomeController.SelectPaquete()" > 
-<button>Crear Paquete</button>
+<a href ='@Url.Action("SelectPaquete")'><button>Crear Paquete</button> </a>
+</div>
+<div>
+    @if (ViewBag.DicPaquetes != null)
+    {
+        @foreach(string item in ViewBag.DicPaquetes)
+        {
+            <h4>@ViewBag.DicPaquetes[item].Destino</h4>
+            <h4>@ViewBag.DicPaquetes[item].Aereo</h4>
+        }
+    }
+    else
+    {
+        <h4>Aún no hay paquetes cargados.</h4>
+    }
+    
 </div>
