@@ -12,9 +12,9 @@
 <div>
     @if (ViewBag.DicPaquetes != null)
     {
-        @foreach(string item in ViewBag.DicPaquetes)
+        @foreach(string item in ViewBag.DicPaquetes.Keys)
         {
-            <h4>@ViewBag.DicPaquetes[item].Destino</h4>
+            <h4>@ViewBag.DicPaquetes[item]</h4>
             <h4>@ViewBag.DicPaquetes[item].Aereo</h4>
         }
     }

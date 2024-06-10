@@ -1,33 +1,43 @@
+<link rel ="stylesheet" href = "style.css"> 
 <h1>Arme su Paquete</h1>
-<form>
+
+
+<h3> DESTINOS: </h3>
 @foreach(string item in ViewBag.Destinos)
 {
     <img src="~/img/@item">
 }
-<p>Elija su Destino:</p>
-<input type = "number" min = 1> 
-
+ 
+<h3> HOTELES: </h3>
 @foreach(string item in ViewBag.Hoteles)
 {
     <img src="~/img/@item">
 }
-<p>Elija su Hotel:</p>
-<input type = "number" min = 1> 
 
+
+<h3> AEREOS: </h3>
 @foreach(string item in ViewBag.Aereos)
 {
     <img src="~/img/@item">
 }
-<p>Elija su Aereo:</p>
-<input type = "number" min = 1> 
 
+<h3> EXCURSIONES:</h3>
 @foreach(string item in ViewBag.Excursiones)
 {
     <img src="~/img/@item">
 }
+<form action ='@Url.Action("GuardarPaquete")'>
+<p>Elija su Destino:</p>
+<input name = "Destino" type = "number" min = 1>
+
+<p>Elija su Hotel:</p>
+<input name = "Hotel" type = "number" min = 1> 
+
+<p>Elija su Aereo:</p>
+<input name = "Aereo" type = "number" min = 1> 
+
 <p>Elija su Excursión:</p>
-<input type = "number" min = 1> 
+<input name = "Excursion" type = "number" min = 1> 
 
-
-<input type = "submit">
+<input type = "submit" >
 </form>
