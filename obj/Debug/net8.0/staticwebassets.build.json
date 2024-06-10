@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gx04AxR7sc0/KSnOc1MEsxolU8iUaAgF11/01IctR18=",
+  "Hash": "xGeATxHqEhAcSm4DWdfy/fc/dy51LqkUZCrjmonUg48=",
   "Source": "TP04_Minuchin_Dominguez",
   "BasePath": "_content/TP04_Minuchin_Dominguez",
   "Mode": "Default",
@@ -319,6 +319,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Four Seasons.jpg"
+    },
+    {
+      "Identity": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\globo.png",
+      "SourceId": "TP04_Minuchin_Dominguez",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\",
+      "BasePath": "_content/TP04_Minuchin_Dominguez",
+      "RelativePath": "img/globo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\globo.png"
     },
     {
       "Identity": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\Hilton.jpg",

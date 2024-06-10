@@ -173,6 +173,10 @@
       "PackagePath": "staticwebassets\\img\\Turkish Airlines.jpg"
     },
     {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\img\\globo.png",
+      "PackagePath": "staticwebassets\\img\\globo.png"
+    },
+    {
       "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
