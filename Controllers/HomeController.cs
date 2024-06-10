@@ -30,18 +30,8 @@ public class HomeController : Controller
 
     public IActionResult GuardarPaquete(int Destino, int Hotel, int Aereo, int Excursion)
     {
-        if(Destino > 10 || Destino < 1 || Hotel > 10 || Hotel < 1 || Aereo > 10 || Aereo < 1 || Excursion > 10 || Excursion < 1)
-        {
-            ViewBag.MsjError = "Error";
-            return View ("SelectPaquete");
-        }
-        else
-        {
             Paquete nuevo = new Paquete(ORTWorld.ListaHoteles[Hotel-1],ORTWorld.ListaAereos[Aereo-1], ORTWorld.ListaExcursiones[Excursion-1]);
             ORTWorld.IngresarPaquete(ORTWorld.ListaDestinos[Destino-1], nuevo);
-            return RedirectToAction("Index");
-             
-        }
-        
+            return RedirectToAction("Index");    
     }
 }

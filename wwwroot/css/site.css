@@ -21,3 +21,25 @@ footer {
   background-color: #f8f9fa;
   border-top: 1px solid #e9ecef;
 }
+
+* 
+{
+margin: 0px; 
+padding: 10px; 
+background-color: antiquewhite;
+
+}  
+
+img
+{
+width: 250px; 
+height: 250px;
+}  
+@font-face {
+  font-family: "Students";
+  src: url("the_students_teacher");
+}
+h1, h3 
+{
+  font-family: "Students"; 
+}

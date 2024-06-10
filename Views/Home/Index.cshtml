@@ -1,4 +1,7 @@
-﻿@{
+﻿<head> 
+<link rel ="stylesheet" href = "wwwroot/site.css"> 
+</head> 
+@{
     ViewData["Title"] = "Index";
 }
 
@@ -12,10 +15,16 @@
 <div>
     @if (ViewBag.DicPaquetes != null)
     {
+        int i = 1;
         @foreach(string item in ViewBag.DicPaquetes.Keys)
         {
-            <h4>@ViewBag.DicPaquetes[item]</h4>
-            <h4>@ViewBag.DicPaquetes[item].Aereo</h4>
+            
+            <h2> Paquete @i </h2>
+            <img src="~/img/@item">
+            <img src="~/img/@ViewBag.DicPaquetes[item].Aereo">
+            <img src="~/img/@ViewBag.DicPaquetes[item].Hotel">
+            <img src="~/img/@ViewBag.DicPaquetes[item].Excursion">
+            i++;
         }
     }
     else

@@ -1,7 +1,11 @@
-<link rel ="stylesheet" href = "style.css"> 
+<head> 
+<link rel ="stylesheet" href = "wwwroot/site.css"> 
+</head> 
 <h1>Arme su Paquete</h1>
 
-
+@{
+    ViewData["Title"] = "SelectPaquete";
+}
 <h3> DESTINOS: </h3>
 @foreach(string item in ViewBag.Destinos)
 {
@@ -28,16 +32,16 @@
 }
 <form action ='@Url.Action("GuardarPaquete")'>
 <p>Elija su Destino:</p>
-<input name = "Destino" type = "number" min = 1>
+<input name = "Destino" type = "number" min = 1 max = 10 value = 1>
 
 <p>Elija su Hotel:</p>
-<input name = "Hotel" type = "number" min = 1> 
+<input name = "Hotel" type = "number" min = 1 max = 10 value = 1> 
 
 <p>Elija su Aereo:</p>
-<input name = "Aereo" type = "number" min = 1> 
+<input name = "Aereo" type = "number" min = 1 max = 10 value = 1> 
 
 <p>Elija su Excursión:</p>
-<input name = "Excursion" type = "number" min = 1> 
+<input name = "Excursion" type = "number" min = 1 max = 10 value = 1> 
 
 <input type = "submit" >
 </form>

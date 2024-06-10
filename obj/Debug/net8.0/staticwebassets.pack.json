@@ -225,6 +225,18 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\the_students_teacher\\TheStudentsTeacher-Regular.ttf",
+      "PackagePath": "staticwebassets\\the_students_teacher\\TheStudentsTeacher-Regular.ttf"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\the_students_teacher\\promo.png",
+      "PackagePath": "staticwebassets\\the_students_teacher\\promo.png"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP04_Minuchin_Dominguez\\wwwroot\\the_students_teacher\\readme.txt",
+      "PackagePath": "staticwebassets\\the_students_teacher\\readme.txt"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP04_Minuchin_Dominguez.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
